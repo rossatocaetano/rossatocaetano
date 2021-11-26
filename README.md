@@ -2,7 +2,7 @@
 #### Me chamo Raphael Rossato. Sou gestor da rede FAB LAB LIVRE SP, apaixonado por tecnologia e estudante de Desenvolvimento Web
 <hr>
 
-##### Sobre mim:
+#### Sobre mim:
 - 🔭 Estou atualmente trabalhando como gestor da rede FAB LAB LIVRE SP
 - 🌱 Estou estudando desenvolvimento Front-End
 - 📫 Como me encontrar: rossato.caetano@gmail.com
@@ -32,7 +32,6 @@
   <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-<hr>
     
 
 <!--**rossatocaetano/rossatocaetano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
