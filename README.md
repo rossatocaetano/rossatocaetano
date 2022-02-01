@@ -4,7 +4,7 @@
 
 #### Sobre mim:
 - 🔭 Estou atualmente trabalhando como gestor da rede FAB LAB LIVRE SP
-- 🌱 Estou estudando desenvolvimento Front-End
+- 🌱 Estou estudando desenvolvimento front-end com React e back-end com Python
 - 📫 Como me encontrar: rossato.caetano@gmail.com
 - 😄 Pronomes: Ele/dele
 - 👨‍💻 Fato curioso: Voltei a estudar desenvolvimento em 2019, criando pequenos scripts em Python para automatizar tarefas do escritório
