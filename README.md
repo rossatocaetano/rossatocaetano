@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Raphael Caetano, public policy manager at the FAB LAB LIVRE SP, a network of 13 digital fabrication labs based in São Paulo city hall, and web developer in my free time. Beyond that, I also have interesting to automate process using Python scripts, in order to brought efficiency and inovation in my works.
+I'm Raphael Caetano, web developer and public policy manager at the FAB LAB LIVRE SP, a network of 13 digital fabrication labs based in São Paulo city hall. Beyond that, I also have interesting to automate process using Python scripts, in order to brought efficiency and inovation in my works.
 
 <div align="right">
   <a href="https://www.linkedin.com/in/rossato-caetano">
